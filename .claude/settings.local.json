@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp:*)",
+      "Bash(start:*)",
+      "Bash(curl:*)",
+      "WebFetch(domain:nominatim.openstreetmap.org)"
+    ]
+  }
+}
