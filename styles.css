@@ -260,7 +260,7 @@ header.scrolled .logo-sub {
     min-height: 100vh;
     background:
         linear-gradient(155deg, rgba(45, 26, 14, 0.84) 0%, rgba(140, 60, 10, 0.52) 100%),
-        url('Photos/breads.png') center / cover no-repeat;
+        url('Photos/breads.png?v=highres') center 20% / cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
